@@ -71,6 +71,31 @@ MRI Images
 
 ---
 
+
+## 🗂️ Datasets
+ 
+Three publicly available MRI datasets were used to evaluate the pipeline, referred to as Dataset 1, Dataset 2, and Dataset 3 in this repository.
+ 
+| # | Name | Glioma Tumor Images | Healthy Brain Images | Source |
+|---|---|---|---|---|
+| Dataset 1 | BRISC 2025 | 1,401 | 1,207 | [Kaggle](https://www.kaggle.com/datasets/briscdataset/brisc2025) |
+| Dataset 2 | SciDB + Masoud Kaggle 2025 | 1,291 | 1,282 | [Kaggle](https://www.kaggle.com/dsv/11957028) |
+| Dataset 3 | Mendeley 2025 | 3,773 | 2,432 | [Mendeley Data](https://data.mendeley.com/datasets/c9rt8d6zrf/1) |
+ 
+### Dataset Details
+ 
+**Dataset 1 — BRISC 2025**
+A recently introduced benchmark dataset for MRI-based brain tumor classification. It provides high-quality labeled scans covering a broad range of tumor sizes, shapes, and locations, making it well-suited for testing model performance across varied clinical presentations.
+ 
+**Dataset 2 — SciDB + Masoud Kaggle 2025**
+A composite dataset formed by merging the SciDB medical imaging collection with Masoud Nickparvar's Brain Tumor MRI Dataset from Kaggle. Combining scans from multiple independent sources introduces greater data diversity, which helps models learn more generalizable features across different tumor morphologies.
+
+ 
+**Dataset 3 — Mendeley 2025**
+A publicly available MRI dataset curated specifically for brain tumor detection tasks. It spans multiple tumor categories captured under varying imaging conditions, offering a realistic and challenging testbed for evaluating how well a model holds up in clinical settings.
+ 
+---
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
