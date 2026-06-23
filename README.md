@@ -227,7 +227,6 @@ Associate Professor, Department of Computer Science, Lakehead University, Thunde
 M.S. Computer Science — Lakehead University (3.9 GPA)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aviral-nautiyal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avi-nauty)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/avinauty)
 
 ---
